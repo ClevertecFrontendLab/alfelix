@@ -1,6 +1,5 @@
 import { alexAvatar, eight, elenaAvatar, five, seven, six } from '~/assets/images/home_page';
-
-import CardProps from './cardProps';
+import CardProps from '~/type/cardProps';
 
 const dataJuicyCards: CardProps[] = [
     {

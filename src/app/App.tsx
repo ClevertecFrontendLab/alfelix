@@ -1,15 +1,7 @@
-module.exports = {
-    plugins: ['simple-import-sort'],
-    rules: {
-        'simple-import-sort/imports': 'error',
-        'simple-import-sort/exports': 'error',
-    },
-};
-
 import { ChakraProvider, extendTheme, theme as baseTheme } from '@chakra-ui/react';
 import { BrowserRouter } from 'react-router';
 
-import Layout from '~/pages/Layout/Layout';
+import Layout from '~/pages/layout/Layout';
 
 import Router from './Router';
 

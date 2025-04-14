@@ -35,4 +35,5 @@ function JuicyBlock() {
         </Flex>
     );
 }
+
 export default JuicyBlock;

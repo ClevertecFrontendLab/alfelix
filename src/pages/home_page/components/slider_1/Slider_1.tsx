@@ -27,4 +27,5 @@ function Slider() {
         </Flex>
     );
 }
+
 export default Slider;

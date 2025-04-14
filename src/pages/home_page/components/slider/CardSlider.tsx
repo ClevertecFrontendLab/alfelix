@@ -6,6 +6,7 @@ import StatsForCard from '~/components/stats-card/StatsForCard';
 import CardProps from '~/type/cardProps';
 
 import styles from './CardSlider.module.css';
+
 function CardSlider({ image, title, description, label, favorites, like }: CardProps) {
     return (
         <Card className={styles.card}>

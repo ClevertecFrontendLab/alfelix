@@ -1,5 +1,6 @@
 import { eight, five, four, one, seven, six, third, two } from '~/assets/images/vegan_page';
 import CardProps from '~/type/cardProps';
+
 const dataVeganPageCards: CardProps[] = [
     {
         image: one,

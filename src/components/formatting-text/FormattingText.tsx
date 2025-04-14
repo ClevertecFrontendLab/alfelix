@@ -9,6 +9,7 @@ type FormattingTextProps = {
 function FormattingText({ text, maxLines = 3, width = '300px' }: FormattingTextProps) {
     const measureRef = useRef<HTMLDivElement | null>(null);
     const [displayText, setDisplayText] = useState<string>(text);
+
     useLayoutEffect(() => {
         const container = measureRef.current;
         if (!container) return;

@@ -18,4 +18,5 @@ const dataSimpleCardVegan: CardProps[] = [
         like: 1,
     },
 ];
+
 export default dataSimpleCardVegan;

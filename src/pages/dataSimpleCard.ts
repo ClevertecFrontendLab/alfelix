@@ -18,4 +18,5 @@ const dataSimpleCard: CardProps[] = [
         like: 1,
     },
 ];
+
 export default dataSimpleCard;

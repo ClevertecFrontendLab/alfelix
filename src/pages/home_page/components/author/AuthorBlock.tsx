@@ -6,6 +6,7 @@ import dataAuthorCards from '~/pages/dataAuthorCards';
 import UserRecommendProps from '~/type/userRecommendProps';
 
 import styles from './AuthorBlock.module.css';
+
 function AuthorBlock() {
     return (
         <Flex className={styles.container}>

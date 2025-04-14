@@ -7,6 +7,7 @@ import styles from './SliderButton.module.css';
 type SliderButton = {
     reverse?: boolean;
 };
+
 function SliderButton({ reverse }: SliderButton) {
     return (
         <Button

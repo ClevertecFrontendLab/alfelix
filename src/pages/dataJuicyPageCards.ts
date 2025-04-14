@@ -1,7 +1,6 @@
 import { alexAvatar, elenaAvatar } from '~/assets/images/home_page';
 import { eight, five, four, one, seven, six, third, two } from '~/assets/images/juicy_page';
-
-import CardProps from './cardProps';
+import CardProps from '~/type/cardProps';
 
 const dataJuicyPageCards: CardProps[] = [
     {

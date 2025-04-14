@@ -15,4 +15,5 @@ const dataLongCardVegan: CardLongProps[] = [
         title: 'Воздушное банановое печенье на сковороде',
     },
 ];
+
 export default dataLongCardVegan;

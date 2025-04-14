@@ -28,4 +28,5 @@ function StatsForCard({ favorites, like, isMobile }: StatsForCardProps) {
         </Flex>
     );
 }
+
 export default StatsForCard;
