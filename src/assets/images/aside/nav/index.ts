@@ -1,0 +1,13 @@
+export { default as baclazan } from './nav_1.svg';
+export { default as bread } from './nav_2.svg';
+export { default as child } from './nav_3.svg';
+export { default as cup } from './nav_4.svg';
+export { default as eating } from './nav_5.svg';
+export { default as healthy } from './nav_6.svg';
+export { default as international } from './nav_7.svg';
+export { default as lavrovi } from './nav_8.svg';
+export { default as pan } from './nav_9.svg';
+export { default as pasta } from './nav_10.svg';
+export { default as pat } from './nav_11.svg';
+export { default as peas } from './nav_12.svg';
+export { default as wash } from './nav_13.svg';
